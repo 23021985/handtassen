@@ -50,7 +50,7 @@ function App() {
 
                 <footer>
                     <Tile
-                        title={"hallo Rein"}
+                        title={"Dit is echt top man"}
 
                     />
 
@@ -65,7 +65,7 @@ function App() {
                     />
 
                     <Tile
-                        title={"lul de behanger"}
+                        title={"Wat een topbedrijf"}
                         story={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus animi dolorem iusto magnam neque non quis sint ullam unde. Animi blanditiis distinctio eius expedita fuga inventore non numquam ratione reprehenderit ullam! A adipisci consectetur corporis culpa dolore doloremque, eius et facere fugit incidunt laborum magnam necessitatibus pariatur perspiciatis quis similique?"}
                     />
 
